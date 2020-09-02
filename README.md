@@ -7,3 +7,4 @@ a= p*(((1+ r/100)**t))
 print("the amount is",a)
 ci=a-p
 print("the ci is",ci)
+
