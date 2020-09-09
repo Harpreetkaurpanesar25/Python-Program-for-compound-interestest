@@ -1,4 +1,4 @@
-# Python-Program-for-compound-interestest
+# Python-Program-for-compound-interestest 
 p=int(input("Enter the principle :"))  
 t=int(input("Enter the time: "))  
 r=int(input("Enter the rate: "))
